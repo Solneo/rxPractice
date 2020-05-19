@@ -1,0 +1,2 @@
+rootProject.name='rxPractice'
+include ':app'
